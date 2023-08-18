@@ -7,6 +7,8 @@ This repository contains the data, visualizations, and R code required to analyz
 
 * Vehicle-based Price Index: Average annual price per kg to LEO based on the number and variety of vehicles launched each year. Considered more defensible due to data limitations of the payload-based index.
 
+It also allows for calculation of the number of countries launching payloads to LEO every year.
+
 This dataset is used in the paper "Space Exploration and Economic Growth: New Issues and Horizons". The final dataset can also be downloaded from the replication files for that paper:
 
 This is a "living" version of the official repository and should not be cited. If you want to cite the code or data associated with this project, please reference the official repository.
