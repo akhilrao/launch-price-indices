@@ -37,6 +37,10 @@ This is a "living" version of the official repository and should not be cited. I
 * `/bin` holds the primary script used for data processing and visualization:
   - `launch-price-calc.R`: The R script used to process the data in `/data` and generate the outputs in `/output`.
 
+## ISS-Related Adjustments
+
+The dataset incorporates adjustments related to the International Space Station (ISS). Some payloads have COSPAR numbers attributed to the ISS module from which they were launched. To avoid attributing these payloads to the year the ISS module was launched rather than the year the payloads were deployed, the data from `iss.txt` (a list of ISS-related objects) is used to make necessary corrections. See `launch-price-calc.R` for details.
+
 ## Generating the Outputs
 
 To reproduce the visualizations and processed data:
