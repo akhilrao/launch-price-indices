@@ -1,0 +1,511 @@
+JSP Vehicle,GSP Vehicle,Seradata Vehicle,Family,Country,Class
+Chang Zheng 1,CZ-1,,Long March 1,China,Small
+Feng Bao 1,FB-1,,DF-5,China,
+Chang Zheng 2C,,,Long March 2C,China,Medium
+,CZ-2A,,Long March 2A,China,Medium
+Chang Zheng 3,CZ-3,,Long March 3,China,Medium
+Chang Zheng 4,CZ-4,,Long March 4,China,Medium
+Chang Zheng 2E,CZ-2E,,Long March 2E,China,Medium
+Chang Zheng 2D,CZ-2D,,Long March 2D,China,Medium
+Chang Zheng 3A,CZ-3A,,Long March 3A,China,Medium
+Chang Zheng 3B,CZ-3B,,Long March 3B,China,Medium
+Chang Zheng 2C-III/SD,CZ-2C (2) SD,,Long March 2C,China,Medium
+Chang Zheng 4B,CZ-4B,,Long March 4B,China,Medium
+Chang Zheng 2F,CZ-2F,,Long March 2F,China,Medium
+Chang Zheng 4C,CZ-4C ?,,Long March 4C,China,Medium
+Chang Zheng 3C,CZ-3C,,Long March 3C,China,Medium
+Chang Zheng 2FT1,CZ-2F/T,,Long March 2F,China,Medium
+Kuaizhou,Kuaizhou-1,,Kuaizhou,China,Small
+Chang Zheng 3C/YZ-1,CZ-3C/G3Z,,Long March 3C,China,Medium
+Chang Zheng 3B/YZ-1,CZ-3B/G3Z,,Long March 3B,China,Medium
+Chang Zheng 11,CZ-11,,Long March 11,China,Small
+Chang Zheng 5/YZ-2,CZ-5/YZ2,,Long March 5,China,Heavy
+Kuaizhou-1A,Kuaizhou-1A,,Kuaizhou,China,Small
+KT-2,Kaituozhe-2,,Kuaizhou,China,Small
+Chang Zheng 7,CZ-7,,Long March 7,China,Medium
+Chang Zheng 6,CZ-6,,Long March 6,China,Small
+Chang Zheng 2C/YZ-1S,CZ-2C (3) YZ-1S,,Long March 2C,China,Medium
+CZ-3B/YZ1,,,Long March 3B,China,Medium
+CZ-2D (2),,,Long March 2D,China,Medium
+CZ-3B/G3Z,,,Long March 3B,China,Medium
+CZ-11,,,Long March 11,China,Small
+CZ-3C/G2,,,Long March 2D,China,Medium
+CZ-2D (2) YZ-3,,,Long March 2D,China,Medium
+CZ-7/YZ1A,,,Long March 7,China,Medium
+,CZ-7/YZ1A,,Long March 7,China,Medium
+,CZ-3B/YZ1,,Long March 3B,China,Medium
+,CZ-2D (2),,Long March 2D,China,Medium
+,CZ-3C/G2,,Long March 3C,China,Medium
+,CZ-2D (2) YZ-3,,Long March 2D,China,Medium
+,CZ-3B/G3,,Long March 3B,China,Medium
+,CZ-11H,,Long March 11,China,Small
+,Hyperbola-1 (Shian Quxian-1),,Shian Quxian,China,Small
+,CZ-2C (3),,Long March 2C,China,Medium
+,Jielong-1,,Jielong,China,
+,CZ-3B/G2,,Long March 3B,China,Medium
+,CZ-4C,,Long March 4C,China,Medium
+,CZ-5,,Long March 5,China,Heavy
+Ariane 1,Ariane-1,,Ariane 1 ,Europe,#N/A
+Ariane 3,Ariane-3,,Ariane 2,Europe,
+Ariane 2,Ariane-2,,Ariane 3,Europe,
+Ariane 44LP,Ariane-44LP H10,,Ariane 44,Europe,Medium
+Ariane 44L,Ariane-44L H10,,Ariane 44,Europe,Medium
+Ariane 40,Ariane-40 H10,,Ariane 40,Europe,Medium
+Ariane 42P,Ariane-42P H10,,Ariane 44,Europe,Medium
+Ariane 44P,Ariane-44P H10,,Ariane 42,Europe,Medium
+Ariane 42L,Ariane-42L H10,,Ariane 42,Europe,Medium
+Ariane 5G,Ariane-5G,,Ariane 5G,Europe,Heavy
+Ariane 5G+,Ariane-5G+,,Ariane 5G,Europe,Heavy
+Ariane 5ECA,Ariane-5ECA,,Ariane 5ECA,Europe,Heavy
+Ariane 5GS,Ariane-5GS,,Ariane 5G,Europe,Heavy
+Ariane 5ES/ATV,Ariane-5ES,,Ariane 5ES,Europe,
+Ariane 5ES,Ariane-5ES,,Ariane 5ES,Europe,
+Vega,,,Vega,Europe,Small
+Ariane-5ECA,,,Ariane 5ECA,Europe,Heavy
+,Vega,,Vega,Europe,Small
+,Ariane-5ECA+,,Ariane 5ECA,Europe,Heavy
+Diamant A,Diamant-A,,Emeraude,France,Small
+Diamant B,Diamant-B,,Emeraude,France,Small
+Diamant BP.4,Diamant-BP4,,Emeraude,France,Small
+SLV-3,SLV-3,,SLV,India,Small
+ASLV,ASLV,,SLV,India,Small
+PSLV,PSLV-G (1),,PSLV,India,Medium
+GSLV Mk I,GSLV Mk.1(1),,GSLV,India,Medium
+PSLV-XL,PSLV-XL,,PSLV,India,Medium
+GSLV Mk II,GSLV Mk.2(1),,GSLV,India,Medium
+GSLV Mk III,GSLV Mk.3,,LVM3,India,Medium
+GSLV Mk.3,,,LVM3,India,Medium
+PSLV-CA,,,PSLV,India,Medium
+GSLV Mk.2(3),,,GSLV,India,Medium
+,PSLV-CA,,PSLV,India,Medium
+,GSLV Mk.2(3),,GSLV,India,Medium
+,PSLV-DL,,PSLV,India,Medium
+,PSLV-QL,,PSLV,India,Medium
+,GSLV Mk.3 (2),,LVM3,India,Medium
+Safir,Safir-1,,Nodong,Iran,Small
+Shaviyt,Shavit,,Shavit,Israel,Small
+Shaviyt 1,Shavit,,Shavit,Israel,Small
+Lambda 4S,L-4S,,Lambda,Japan,Small
+Mu-4S,M-4S,,Mu,Japan,Small
+Mu-3C,M-3C,,Mu,Japan,Small
+Mu-3H,M-3H,,Mu,Japan,Small
+Mu-3S,M-3S,,Mu,Japan,Small
+Mu-3S-II,M-3S-2,,Mu,Japan,Small
+H-II,H-2,,H-II,Japan,Medium
+M-V,M-5,,M-V,Japan,Small
+H-IIA 202,H-2A-202,,H-II,Japan,Medium
+H-IIA 2024,H-2A-2024,,H-II,Japan,Medium
+H-IIA 2022,H-2A-2022,,H-II,Japan,Medium
+H-IIA 204,H-2A-204,,H-II,Japan,Medium
+H-IIB,H-2B-304,,H-II,Japan,Medium
+Epsilon,Epsilon CLPS,,Epsilon,Japan,Small
+SS-520,SS-520 (3 stg),,S-520,Japan,Small
+,H-1 (9 SO),,H-I,Japan,Small
+,H-1 UM-129A (9 SO),,H-I,Japan,Small
+,H-1 UM-129A (6 SO),,H-I,Japan,Small
+,Epsilon (2) CLPS,,Epsilon,Japan,Small
+Unha-3,,,Unha,North Korea,Small
+,Unha-3,,Unha,North Korea,Small
+Molniya 8K78,Molniya (E6),,Molniya,Russia,Medium
+Vostok 8A92,Vostok-2,,Vostok,Russia,Medium
+Kosmos 63S1,Kosmos,,Kosmos,Russia,Small
+Vostok 8K72K,Vostok-K,,Vostok,Russia,Medium
+Sputnik 11A59,11A59 I1,,Modified R-7,Russia,
+Voskhod 11A57,Voskhod,,Voskhod,Russia,
+Kosmos 65S3,Kosmos-1,,Kosmos,Russia,Small
+Vostok 8A92M,Vostok-2M,,Vostok,Russia,Medium
+UR-500,Proton,,Proton,Russia,Heavy
+Molniya 8K78M,Molniya-M (Blok-L),,Molniya,Russia,Medium
+Kosmos 11K63,Kosmos-2,,Kosmos,Russia,Small
+Soyuz 11A510,11A510 US,,Modified R-7,Russia,
+R-36O 8K69,,,R-36 / Cyclone,Russia,Medium
+Soyuz 11A511,Soyuz,,Soyuz,Russia,Medium
+UR-500K/Blok D,Proton-K Blok-D,,Proton,Russia,Heavy
+Kosmos 11K65,Kosmos-3,,Kosmos,Russia,Small
+Proton-K/D,Proton-K Blok-D,,Proton,Russia,Heavy
+Kosmos 11K65M,Kosmos-3M,,Kosmos,Russia,Small
+Tsiklon-2A,Tsiklon-2A,,R-36 / Cyclone,Russia,Medium
+Proton-K,Proton-K,,Proton,Russia,Heavy
+Tsiklon-2,Tsiklon-2,,R-36 / Cyclone,Russia,Medium
+R-36O 8K69M,R-36-O,,R-36 / Cyclone,Russia,Medium
+Soyuz 11A511L,Soyuz-L,,Soyuz,Russia,Medium
+Soyuz 11A511M,Soyuz-M,,Soyuz,Russia,Medium
+Soyuz-U,Soyuz-U,,Soyuz,Russia,Medium
+Proton-K/DM,Proton-K Blok-DM,,Proton,Russia,Heavy
+Proton-K/D-1,Proton-K Blok-D,,Proton,Russia,Heavy
+Tsiklon-3,Tsiklon-3,,R-36 / Cyclone,Russia,Medium
+K65M-RB,K65M-RB5,,Kosmos,Russia,Small
+Proton-K/DM-2,Proton-K Blok-DM-2,,Proton,Russia,Heavy
+Soyuz-U2,Soyuz-U2,,Soyuz,Russia,Medium
+Soyuz-U-PVB,Soyuz-U,,Soyuz,Russia,Medium
+Zenit-2,Zenit-2,,Zenit 2,Russia,Medium
+Proton-K/D-2,Proton-K Blok-D-2,,Proton,Russia,Heavy
+Energiya/Buran,Energiya Buran,,Energiya,Russia,Heavy
+Molniya 8K78M-PVB,Molniya-M (Blok-2BL),,Molniya,Russia,Medium
+Proton-K/DM-2M,Proton-K Blok-DM-2M,,Proton,Russia,Heavy
+Proton-K/17S40,Proton-K Blok-DM-5,,Proton,Russia,Heavy
+Shtil'-1,Shtil-1,,Shtil,Russia,Small
+Zenit-3SL,Zenit-3SL (1),,Zenit 3SL,Russia,Medium
+Dnepr,Dnepr,,Dnepr,Russia,Medium
+Proton-K/Briz-M,Proton-K Briz-M,,Proton,Russia,Heavy
+Proton-M/Briz-M,Proton-M Briz-M (Mod 1),,Proton,Russia,Heavy
+Soyuz-FG,Soyuz-FG,,Soyuz,Russia,Medium
+Soyuz-2-1A,Soyuz-2-1a Fregat,,Soyuz,Russia,Medium
+Soyuz-2-1B,Soyuz-2-1b Fregat,,Soyuz,Russia,Medium
+Zenit-2M,Zenit-2M,,Zenit 2,Russia,Medium
+Proton-M/DM-2,Proton-M Blok-DM-2,,Proton,Russia,Heavy
+Zenit-3SLB,Zenit-3SLB,,Zenit 3SL,Russia,Medium
+Zenit-3SLBF,Zenit-3F,,Zenit 3SL,Russia,Medium
+Soyuz-ST-B,Soyuz-ST-B Fregat-MT,,Soyuz,Russia,Medium
+Zenit-2SB,Zenit-2FG [Fregat-SB],,Zenit 2,Russia,Medium
+Soyuz-ST-A,Soyuz-ST-A Fregat,,Soyuz,Russia,Medium
+Soyuz-2-1V,Soyuz-2-1v Volga,,Soyuz,Russia,Medium
+Proton-M/DM-3,Proton-M Blok-DM-03,,Proton,Russia,Heavy
+Rokot-KM,,,Rokot,Russia,Small
+Strela,,,Strela,Russia,Small
+UR-100N,,,Strela,Russia,Small
+Angara-A5 Briz-M,,,Angara,Russia,Heavy
+Soyuz-ST-B Fregat-M,,,Soyuz,Russia,Medium
+Soyuz-ST-A Fregat-M,,,Soyuz,Russia,Medium
+Proton-M Briz-M (Ph.3),,,Proton,Russia,Heavy
+Soyuz-2-1a Fregat-M,,,Soyuz,Russia,Medium
+,Sputnik 8k71PS,,Sputnik,Russia,Small
+,Sputnik (2),,Sputnik,Russia,Small
+,Vostok-L,,Vostok,Russia,Medium
+,Vostok,,Vostok,Russia,Medium
+,Molniya,,Molniya,Russia,Medium
+,Vostok-K,,Vostok,Russia,Medium
+,Kosmos,,Kosmos,Russia,Small
+,Vostok-2,,Vostok,Russia,Medium
+,Start-1,,Start,Russia,Small
+,Rokot-K,,Rokot,Russia,Small
+,Start-1.2,,Start,Russia,Small
+,Rokot-KM,,Rokot,Russia,Small
+,Strela,,Strela,Russia,Small
+,Angara-A5 Briz-M,,Angara,Russia,Heavy
+,Soyuz-ST-B Fregat-M,,Soyuz,Russia,Medium
+,Soyuz-ST-A Fregat-M,,Soyuz,Russia,Medium
+,Proton-M Briz-M (Ph.3),,Proton,Russia,Heavy
+,Soyuz-2-1a Fregat-M,,Soyuz,Russia,Medium
+,Soyuz-2-1b Fregat-M,,Soyuz,Russia,Medium
+,Soyuz-2-1a,,Soyuz,Russia,Medium
+,Proton-M Briz-M (Ph.4),,Proton,Russia,Heavy
+Naro-1,,,Naro,South Korea,Small
+,Naro-1,,Naro,South Korea,Small
+Black Arrow,Black Arrow,,Black Arrow,United Kingdom,Small
+Scout X-3M,Scout-X3M,,Scout,United States,Small
+Atlas Agena B,Atlas-LV3 Agena-B,,Atlas Agena,United States,Medium
+Atlas D,Atlas-D Mercury,,Atlas,United States,Medium
+Scout X-3,Scout-X3,,Scout,United States,Small
+Scout X-4,Scout-X4,,Scout,United States,Small
+Atlas Agena D,Atlas-LV3 Agena-D,,Atlas Agena,United States,Medium
+Saturn I,Saturn-1 (Block-2),,Saturn I,United States,Medium
+Atlas SLV-3 Agena D,Atlas-SLV3 Agena-D,,Atlas Agena,United States,Medium
+Scout B,Scout-B,,Scout,United States,Small
+Atlas Centaur D,Atlas-LV3C Centaur-D,,Atlas Centaur,United States,Medium
+Scout A,Scout-A,,Scout,United States,Small
+Atlas SLV-3,Atlas-SLV3,,Atlas,United States,Medium
+Atlas SLV-3 Agena B,Atlas-SLV3 Agena-B,,Atlas Agena,United States,Medium
+Uprated Saturn I,Saturn-1B,,Saturn IB,United States,Heavy
+Atlas SLV-3C Centaur,Atlas-SLV3C Centaur-D,,Atlas Centaur,United States,Medium
+Saturn V,Saturn-5,,Saturn V,United States,Heavy
+SPARTA,Redstone Sparta,,Redstone,United States,
+Saturn IB,Saturn-1B,,Saturn IB,United States,Heavy
+Atlas SLV-3A Agena D,Atlas-SLV3A Agena-D,,Atlas Agena,United States,Medium
+Atlas F,Atlas-F OV1 (2×),,Atlas,United States,Medium
+Scout B-1,Scout-B1,,Scout,United States,Small
+Scout D-1,Scout-D1,,Scout,United States,Small
+Atlas Burner 2,Atlas-F Burner-2,,Atlas,United States,Medium
+Atlas SLV-3D Centaur,Atlas-SLV3D Centaur-D1A Star-37E,,Atlas Centaur,United States,Medium
+Scout A-1,Scout-A1,,Scout,United States,Small
+Scout E-1,Scout-E1,,Scout,United States,Small
+Atlas F/PTS,Atlas-F PTS,,Atlas,United States,Medium
+Scout F-1,Scout-F1,,Scout,United States,Small
+Atlas F/MSD,Atlas-F MSD,,Atlas,United States,Medium
+Atlas F/SVS,Atlas-F SGS-1,,Atlas,United States,Medium
+Atlas F/Agena D,Atlas-F Agena-D,,Atlas Agena,United States,Medium
+Atlas F/OIS,Atlas-F OIS,,Atlas,United States,Medium
+Scout G-1,Scout-G1,,Scout,United States,Small
+Space Shuttle,Shuttle,,Space Shuttle,United States,Heavy
+Atlas E,Atlas-E Star-37S-ISS,,Atlas,United States,Medium
+Atlas H,Atlas-H MSD,,Atlas,United States,Medium
+Atlas E/SGS-2,Atlas-E SGS-2,,Atlas,United States,Medium
+Atlas G Centaur,Atlas-G Centaur-D1AR,,Atlas Centaur,United States,Medium
+Atlas E/OIS,Atlas-E OIS,,Atlas,United States,Medium
+Pegasus,Pegasus,,Pegasus,United States,Small
+Atlas E Altair,Atlas-E Altair-3A,,Atlas,United States,Medium
+Atlas I,Atlas-1,,Atlas I,United States,Medium
+Pegasus/HAPS,Pegasus HAPS,,Pegasus,United States,Small
+Atlas II,Atlas-2,,Atlas II,United States,Medium
+Atlas IIA,Atlas-2A,,Atlas IIA,United States,Medium
+Atlas IIAS,Atlas-2AS,,Atlas IIAS,United States,Medium
+ARPA Taurus,Taurus-1110,,Taurus,United States,Small
+Pegasus H,Pegasus-H,,Pegasus,United States,Small
+Pegasus XL,Pegasus-XL,,Pegasus XL,United States,Small
+LMLV-1,Athena-1 (LMLV-1),,Athena 1,United States,Small
+Pegasus XL/HAPS,Pegasus-XL HAPS,,Pegasus XL,United States,Small
+Athena-2,Athena-2,,Athena 2,United States,Small
+Taurus 2210,Taurus-2210,,Taurus,United States,Small
+Athena-1,Athena-1,,Athena 1,United States,Small
+Taurus 2110,Taurus-2110,,Taurus,United States,Small
+Minotaur 1,Minotaur-1,,Minotaur I,United States,Small
+Taurus 1110,Taurus-1110,,Taurus,United States,Small
+Atlas 3A,Atlas-3A,,Atlas III,United States,Medium
+Atlas 3B,Atlas-3B-DEC,,Atlas III,United States,Medium
+Atlas V 401,Atlas-5(401),,Atlas V,United States,Medium
+"Delta 4M+(4,2)","Delta-4M+(4,2)",,Delta IV,United States,Medium
+Delta 4M,Delta-4M,,Delta IV,United States,Medium
+Atlas V 521,Atlas-5(521),,Atlas V,United States,Medium
+Taurus 3210,Taurus-3210,,Taurus,United States,Small
+Delta 4H,Delta-4H,,Delta IV Heavy,United States,Heavy
+Atlas V 431,Atlas-5(431),,Atlas V,United States,Medium
+Atlas V 551,Atlas-5(551) [Star-48B],,Atlas V,United States,Medium
+Atlas V 411,Atlas-5(411),,Atlas V,United States,Medium
+Atlas V 421,Atlas-5(421),,Atlas V,United States,Medium
+Falcon 1,Falcon-1,,Falcon 1,United States,Small
+"Delta 4M+(5,4)","Delta-4M+(5,4)",,Delta IV,United States,Medium
+Atlas V 501,Atlas-5(501),,Atlas V,United States,Medium
+Falcon 9,Falcon-9 v1.0,,Falcon 9,United States,Medium
+Atlas V 531,Atlas-5(531),,Atlas V,United States,Medium
+Minotaur IV,Minotaur-4,,Minotaur IV,United States,Small
+Minotaur IV+,Minotaur-4+,,Minotaur IV,United States,Small
+Atlas V 541,Atlas-5(541),,Atlas V,United States,Medium
+"Delta 4M+(5,2)","Delta-4M+(5,2)",,Delta IV,United States,Medium
+Antares 110,Antares-110,,Antares,United States,Medium
+Minotaur V,Minotaur-5 (1),,Minotaur V,United States,
+Antares 120,Antares-120,,Antares,United States,Medium
+Antares 230,Antares-230,,Antares,United States,Medium
+Minotaur-C 3210,Minotaur-C-XL-3210,,Minotaur C,United States,Small
+Delta-7925,,,Delta II,United States,Medium
+Delta-7925H,,,Delta II,United States,Medium
+Delta-7920-10C,,,Delta II,United States,Medium
+Delta-7420-10C,,,Delta II,United States,Medium
+Delta-7925-10C,,,Delta II,United States,Medium
+Delta-7920H-10C,,,Delta II,United States,Medium
+Delta-7320-10C,,,Delta II,United States,Medium
+Delta-7925-10L,,,Delta II,United States,Medium
+Falcon Heavy,Falcon-Heavy,,Falcon Heavy,United States,Heavy
+Falcon-Heavy,,,Falcon Heavy,United States,Heavy
+Delta 4H/Star 48BV,Delta-4H (upg.),,Delta IV,United States,Medium
+Falcon-9 v1.2 (Block 5),,,Falcon 9,United States,Medium
+Antares-230,,,Antares,United States,Medium
+Falcon-9 v1.2 (Block 5)(ex),,,Falcon 9,United States,Medium
+,Juno-1,,Redstone,United States,
+,Vanguard,,Vanguard,United States,Small
+,Thor-DM18 Able-1,,Thor,United States,
+,Juno-2,,Redstone,United States,
+,Atlas-B (mod.),,Atlas,United States,Medium
+,Thor-DM18 Agena-A,,Thor,United States,
+,Thor-DM18 Able-3,,Thor,United States,
+,Vanguard (mod.),,Vanguard,United States,Small
+,Thor-DM18 Able-4,,Thor,United States,
+,Thor-DM18 Able-2 (mod.),,Thor,United States,
+,Thor-DM21 Able-Star,,Thor,United States,
+,Atlas-LV3 Agena-A,,Atlas Agena,United States,Medium
+,Delta,,Thor,United States,
+,Thor-DM21 Agena-B,,Thor,United States,
+,Scout-X1,,Scout,United States,Small
+,Atlas-LV3 Agena-B,,Atlas Agena,United States,Medium
+,Atlas-D Mercury,,Atlas,United States,Medium
+,Atlas LV3-Agena-B,,Atlas Agena,United States,Medium
+,Thor-DM21 Agena-D,,Thor,United States,
+,Scout-X2M,,Scout,United States,Small
+,Delta-A,,Delta A,United States,
+,Delta-B,,Delta B,United States,
+,Scout-X3,,Scout,United States,Small
+,Thor-SLV2A Agena-D,,Thor,United States,
+,Thor-SLV2A Agena-B,,Thor,United States,
+,Titan-2-GLV,,Titan II,United States,Medium
+,Delta-D,,Delta D,United States,
+,Delta-C,,Delta C,United States,
+,Thor-LV2D Burner-1 (1),,Thor,United States,
+,Thor-DSV2A Able-Star,,Thor,United States,
+,Thor-LV2D Burner-1 (2),,Thor,United States,
+,Titan-3C,,Titan III+,United States,Medium
+,Delta-E,,Delta E,United States,Medium
+,Delta-C1,,Delta C,United States,
+,Delta-E1,,Delta E,United States,Medium
+,Titan-3B Agena-D,,Titan III,United States,Medium
+,Thorad-SLV2G Agena-D,,Thor,United States,
+,Thor-LV2F Burner-2,,Thor,United States,
+,Delta-G,,Delta G,United States,
+,Thor-LV2F Burner-2 Star-13A,,Thor,United States,
+,Delta-J,,Delta J,United States,
+,Delta-N,,Delta N,United States,
+,Delta-M,,Delta M,United States,
+,Thorad-SLV2H Agena-D,,Thor,United States,
+,Delta-N6,,Delta N,United States,
+,Titan-3(23)C,,Titan III+,United States,Medium
+,Titan-3(23)B Agena-D,,Titan III,United States,Medium
+,Delta-M6,,Delta M,United States,
+,Titan-3(33)B Agena-D,,Titan III,United States,Medium
+,Titan-3D,,Titan III,United States,Medium
+,Titan-3(24)B Agena-D,,Titan III,United States,Medium
+,Thor-LV2F Burner-2A,,Thor,United States,
+,Delta-L,,Delta L,United States,
+,Delta-900,,Delta 0100-Series,United States,Small
+,Delta-1604,,Delta 1000-Series,United States,Small
+,Delta-300,,Delta 0100-Series,United States,Small
+,Delta-1914,,Delta 1000-Series,United States,Small
+,Delta-1913,,Delta 1000-Series,United States,Small
+,Delta-1900,,Delta 1000-Series,United States,Small
+,Delta-2313,,Delta 2000-Series,United States,Small
+,Delta-2914,,Delta 2000-Series,United States,Small
+,Delta-2310,,Delta 2000-Series,United States,Small
+,Titan-3E Centaur-D1T Star-37E,,Titan Centaur,United States,
+,Delta-2910,,Delta 2000-Series,United States,Small
+,Titan-3(34)B Agena-D,,Titan III,United States,Medium
+,Delta-1410,,Delta 1000-Series,United States,Small
+,Delta-1910,,Delta 1000-Series,United States,Small
+,Delta-2913,,Delta 2000-Series,United States,Small
+,Titan-3E Centaur-D1T,,Titan Centaur,United States,
+,Delta-3914,,Delta 3000-Series,United States,Small
+,Thor-LV2F Star-37XE Star-37S-ISS,,Thor,United States,
+,Delta-3910,,Delta 3910,United States,Small
+,Delta-3910 PAM-D,,Delta 3910,United States,Small
+,Delta-3913,,Delta 3000-Series,United States,Small
+,Delta-3920,,Delta 3000-Series,United States,Small
+,Delta-3920 PAM-D,,Delta 3000-Series,United States,Small
+,Delta-3924,,Delta 3000-Series,United States,Small
+,Titan-34D IUS,,Titan III+,United States,Medium
+,Titan-34D,,Titan III+,United States,Medium
+,Titan-34D Transtage,,Titan III+,United States,Medium
+,Titan-2(23)G,,Titan II,United States,Medium
+,Delta-6925,,Delta 3000-Series,United States,Small
+,Titan-4(02)A IUS,,Titan IV,United States,Heavy
+,Delta-4925,,Delta 4000-Series,United States,Medium
+,Delta-5920,,Delta 5000-Series,United States,Medium
+,Commercial-Titan-3,,Titan III+,United States,Medium
+,Delta-6920-8,,Delta II,United States,Medium
+,Delta-6925-8,,Delta II,United States,Medium
+,Delta-6920-10,,Delta II,United States,Medium
+,Titan-4(05)A,,Titan IV,United States,Heavy
+,Delta-7925,,Delta II,United States,Medium
+,Titan-4(04)A,,Titan IV,United States,Heavy
+,Titan-4(03)A,,Titan IV,United States,Heavy
+,Delta-7925-8,,Delta II,United States,Medium
+,Titan-4(01)A Centaur-T,,Titan Centaur,United States,
+,Delta-7925-10,,Delta II,United States,Medium
+,Delta-7920-10,,Delta II,United States,Medium
+,Titan-4(02)B IUS,,Titan IV,United States,Heavy
+,Titan-2(23)G Star-37S-ISS,,Titan II,United States,Medium
+,Delta-7920-10C,,Delta II,United States,Medium
+,Delta-7920-8,,Delta II,United States,Medium
+,Titan-4(01)B Centaur-T,,Titan Centaur,United States,
+,Delta-7420-10C,,Delta II,United States,Medium
+,Titan-2(23)G Star-37XFP-ISS,,Titan II,United States,Medium
+,Delta-7326,,Delta II,United States,Medium
+,Delta-7425,,Delta II,United States,Medium
+,Delta-7426,,Delta II,United States,Medium
+,Delta-8930,,Delta III,United States,Medium
+,Titan-4(03)B,,Titan IV,United States,Heavy
+,Delta-7320-10C,,Delta II,United States,Medium
+,Delta-7425-10C,,Delta II,United States,Medium
+,Titan-4(04)B,,Titan IV,United States,Heavy
+,Delta-7920-10L,,Delta II,United States,Medium
+,Delta-7925H,,Delta II,United States,Medium
+,Delta-7920H,,Delta II,United States,Medium
+,Titan-4(05)B,,Titan IV,United States,Heavy
+,Delta-7925-10L,,Delta II,United States,Medium
+,Delta-7925-10C,,Delta II,United States,Medium
+,Delta-7920H-10C,,Delta II,United States,Medium
+,Falcon-9 v1.2 (Block 5),,Falcon 9,United States,Medium
+,Falcon-9 v1.2 (Block 5)(ex),,Falcon 9,United States,Medium
+,"Delta-4M+(5,4) (upg.)",,Delta IV,United States,Medium
+,Falcon-Heavy (Block 5),,Falcon Heavy,United States,Heavy
+,Atlas-5(551),,Atlas V,United States,Medium
+,Atlas-5(511),,Atlas V,United States,Medium
+,"Delta-4M+(4,2) (upg.)",,Delta IV,United States,Medium
+,Antares-230+,,Antares,United States,Medium
+,Atlas-5(N22),,Atlas V,United States,Medium
+,Atlas-LV3C Centaur-B,,Atlas Centaur,United States,Medium
+,N-1,,Thor N-Class,United States / Japan,Medium
+,N-2 Star-37N,,Thor N-Class,United States / Japan,Medium
+,N-2,,Thor N-Class,United States / Japan,Medium
+Electron,Electron KS,,Electron,United States / New Zealand,Small
+Electron Curie,,,Electron,United States / New Zealand,Small
+,Electron Curie,,Electron,United States / New Zealand,Small
+,CZ-3B/G2(2),,Long March 3B,China,Medium
+,CZ-7A,,Long March 7A,China,Medium
+,,ATLAS SLV3G (ATLAS G) CENTAUR D1-AR,Atlas Centaur,United States,Medium
+,,ATLAS I,Atlas I,United States,Medium
+,,TITAN IVA (401A)/CENTAUR-T,Titan Centaur,United States,
+,,ATLAS II,Atlas II,United States,Medium
+,,TITAN IVB (401B)/CENTAUR-T,Titan Centaur,United States,
+,,PROTON K (D-1-e)/BLOK DM3 (8K82K 11S861-01),Proton,Russia,Heavy
+,,ATLAS IIA,Atlas IIA,United States,Medium
+,,ARIANE 44L H10-3,Ariane 44,Europe,Medium
+,,TITAN IVB (402B)/IUS,Titan IV,United States,Heavy
+,,ZENIT-3SL (BLOK DM-SL),Zenit 3SL,Russia,Medium
+,,DELTA IVM,Delta IV,United States,Medium
+,,ATLAS IIIB SEC,Atlas III,United States,Medium
+,,ZENIT-3SL (BLOK DM-SL) UPGRADED,Zenit 3SL,Russia,Medium
+,,ATLAS IIAS,Atlas IIAS,United States,Medium
+,,PROTON M/BRIZ-M (PH1),Proton,Russia,Heavy
+,,ARIANE 5G+(PLUS),Ariane 5G,Europe,Heavy
+,,ARIANE 5 ECA - Evolution Cryotechnique type A,Ariane 5ECA,Europe,Heavy
+,,ATLAS V 431 (RL10A-4-2),Atlas V,United States,Medium
+,,ARIANE 5GS,Ariane 5G,Europe,Heavy
+,,ATLAS V 411 (RL10A-4-2),Atlas V,United States,Medium
+,,"DELTA IVM+ 4,2",Delta IV,United States,Medium
+,,LONG MARCH 3B-4 (CZ-3B-4),Long March 3B,China,Medium
+,,PROTON M/BRIZ-M (PH2),Proton,Russia,Heavy
+,,ATLAS V 421 (RL10A-4-2),Atlas V,United States,Medium
+,,ZENIT-3SLB/ZENIT 3M (BLOK DM-SLB),Zenit 3SL,Russia,Medium
+,,PROTON M/BRIZ-M (PHS 2 MOD),Proton,Russia,Heavy
+,,LONG MARCH 3A (CZ-3A),Long March 3A,China,Medium
+,,DELTA IVH-4050H,Delta IV Heavy,United States,Heavy
+,,PROTON M/BRIZ-M (PH3),Proton,Russia,Heavy
+,,ATLAS V 401 (RL10A-4-2),Atlas V,United States,Medium
+,,PROTON M/BRIZ-M (PH1 MOD 1),Proton,Russia,Heavy
+,,ATLAS V 531 (RL10A-4-2),Atlas V,United States,Medium
+,,LONG MARCH 3C (CZ-3C),Long March 3C,China,Medium
+,,LONG MARCH 3B-G2 (B/E) (CZ-3B-G2),Long March 3B,China,Medium
+,,LONG MARCH 3B-G3 (CZ-3B-G3),Long March 3B,China,Medium
+,,"DELTA IVM+ 5,4",Delta IV,United States,Medium
+,,ATLAS V 551 (RL10A-4-2),Atlas V,United States,Medium
+,,DELTA IVH-4050H (UPGRADED),Delta IV Heavy,United States,Heavy
+,,FALCON 9v1.1 (Ex),Falcon 9,United States,Medium
+,,GSLV 2 CUSP-1,GSLV,India,Medium
+,,PSLV-XL,PSLV,India,Medium
+,,ATLAS V 541 (RL10A-4-2),Atlas V,United States,Medium
+,,H-2A202 (SRB-A3),H-II,Japan,Medium
+,,PROTON M/BRIZ-M (PH4),Proton,Russia,Heavy
+,,ATLAS V 551 (RL10C-1),Atlas V,United States,Medium
+,,"DELTA IVM+ 5,4 (UPGRADED)",Delta IV,United States,Medium
+,,PROTON M/BLOK DM-03 (8K82M 11S861),Proton,Russia,Heavy
+,,ATLAS V 421 (RL10C-1),Atlas V,United States,Medium
+,,H-2A204 UPGRADE (SRB-A3),H-II,Japan,Medium
+,,PROTON M/BRIZ-M (PH1 MOD 2),Proton,Russia,Heavy
+,,FALCON 9v1.2 FT BLOCK 3,Falcon 9,United States,Medium
+,,LONG MARCH 3C-G2 (CZ-3C-G2),Long March 3C,China,Medium
+,,"DELTA IVM+ 4,2 (UPGRADED)",Delta IV,United States,Medium
+,,GSLV 2 CUSP-2,GSLV,India,Medium
+,,ATLAS V 541 (RL10C-1),Atlas V,United States,Medium
+,,ATLAS V 431 (RL10C-1),Atlas V,United States,Medium
+,,ATLAS V 411 (RL10C-1),Atlas V,United States,Medium
+,,SOYUZ ST-B (FREGAT-MT),Soyuz,Russia,Medium
+,,FALCON 9v1.2 FT BLOCK 3 (Ex),Falcon 9,United States,Medium
+,,FALCON 9v1.2 FT BLOCK 3/4 (Ex),Falcon 9,United States,Medium
+,,SOYUZ ST-A (FREGAT-M),Soyuz,Russia,Medium
+,,LVM3-1 (GSLV 3-1),LVM3,India,Medium
+,,FALCON 9v1.2 FT BLOCK 3/4,Falcon 9,United States,Medium
+,,FALCON 9v1.2 FT BLOCK 4,Falcon 9,United States,Medium
+,,ATLAS V 401 (RL10C-1),Atlas V,United States,Medium
+,,FALCON 9v1.2FT BLOCK 5,Falcon 9,United States,Medium
+,,FALCON 9v1.2FT BLOCK 4/5 (Ex),Falcon 9,United States,Medium
+,,LVM3-2 (GSLV 3-2),LVM3,India,Medium
+,,FALCON HEAVY (BLOCK 5),Falcon Heavy,United States,Heavy
+,,ARIANE 5 ECA+,Ariane 5ECA,Europe,Heavy
+,,LONG MARCH 3B-G2 (CZ-3B-G2) (2) IMPROVED,Long March 3B,China,Medium
+,,LONG MARCH 7A,Long March 7A,China,Medium
+,,ATLAS V 421 (RL10C-1-1),Atlas V,United States,Medium
+,,ATLAS V 551 (RL10C-1)/GEM-63,Atlas V,United States,Medium
+,,ATLAS V 511 (RL10C-1)/GEM-63,Atlas V,United States,Medium
+,,ATLAS V 541 (RL10C-1)/GEM-63,Atlas V,United States,Medium
+,,ATLAS V 421 (RL10C-1-1)/GEM-63,Atlas V,United States,Medium
+,,ATLAS V 531 (RL10C-1-1)/GEM-63,Atlas V,United States,Medium
+,,FALCON HEAVY (BLOCK 5 PX),Falcon Heavy,United States,Heavy
+,,LONG MARCH 2C/3 (CZ-2C/3),Long March 2C,China,Medium
+,,FALCON HEAVY (BLOCK 5 EX),Falcon Heavy,United States,Heavy
+,,GSLV 2 CUSP-4,GSLV,India,Medium
