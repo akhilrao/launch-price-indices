@@ -20,6 +20,7 @@ This is a "living" version of the official repository and should not be cited. I
   - `spacetrack-satcat.csv`: Satellite catalog data sourced from Space-Track.
   - `launchlog.tsv`: A log of satellite launches. Sourced from Jonathan McDowell's site (URL: https://planet4589.org/space/gcat/tsv/derived/launchlog.tsv).
   - `iss.txt`: Log of payloads deployed from the International Space Station (ISS). Sourced from Jonathan McDowell's site (URL: https://planet4589.org/space/iss/iss.txt). It provides a list of ISS-related objects used for adjustments in payload country attributions.
+    - *Citation*: Jonathan C. McDowell, Jonathan’s Space Report (2023). Available at: https://planet4589.org/.
   - `VehicleFamilies.csv`: Information on various launch vehicle families used to harmonize Launch Log names for price attribution. Provided by Thomas G. Roberts.
   - `csis-launch-costs.csv`: Launch cost data sourced from CSIS Aerospace Security Project. Contains data on space launch prices to LEO. 
     - *Citation*: Thomas G. Roberts, Space Launch to Low Earth Orbit: How Much Does It Cost?, Center for Strategic and International Studies, September 1, 2022, https://aerospace.csis.org/data/space-launch-to-low-earth-orbit-how-much-does-it-cost/.
