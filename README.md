@@ -3,9 +3,9 @@
 
 This repository contains the data, visualizations, and R code required to analyze and visualize launch price indices. Two indices are calculated:
 
-* Payload-based Price Index: Average annual price per kg to LEO based on the number of payloads launched each year on various vehicles. Doesn't consider the mass of each payload due to missing data.
+* Payload-weighted Price Index: Average annual price per kg to LEO based on the number of payloads launched each year on various vehicles. Doesn't consider the mass of each payload due to missing data.
 
-* Vehicle-based Price Index: Average annual price per kg to LEO based on the number and variety of vehicles launched each year. Considered more defensible due to data limitations of the payload-based index.
+* Vehicle-weighted Price Index: Average annual price per kg to LEO based on the number and variety of vehicles launched each year. Considered more defensible due to data limitations of the payload-based index.
 
 It also allows for calculation of the number of countries launching payloads to LEO every year.
 
@@ -30,7 +30,7 @@ This is a "living" version of the official repository and should not be cited. I
     - `price_plot.png`: A plot of the vehicle-based launch price index, 1957-2023.
     - `price_plot_zoom.png`: A zoomed-in visualization of launch prices over 1961-2023, excluding initial years to better illustrate recent trends.
     - `price_missing_plot.png`: Visualization showing share of observations missing in each year, 1957-2023.
-    - `price_plot_both.png`: A comparison of two types of launch price indices over 1957-2023, "payload-based" and "vehicle-based". "Vehicle-based" is considered the more-appropriate index given the price data and is what is used elsewhere. See `launch-price-calc.R` for more details.
+    - `price_plot_both.png`: A comparison of two types of launch price indices over 1957-2023, "payload-weighted" and "vehicle-weighted". "Vehicle-weighted" is considered the more-appropriate index given the price data and is what is used elsewhere. See `launch-price-calc.R` for more details.
     - `price_country_plot.png`: Visualization of launch prices and number of countries deploying payloads to space, 1957-2023.
     - `country_plot--iss-corrected.png`: A corrected visualization of the number of payloads launched by county, corrected for payloads with COSPAR numbers attributed to the ISS module from which they were launched. See `launch-price-calcs.R` for details on this adjustment. ISS data 
   - Data files:
