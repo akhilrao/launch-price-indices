@@ -9,10 +9,9 @@ This repository contains the data, visualizations, and R code required to analyz
 
 It also allows for calculation of the number of countries launching payloads to LEO every year.
 
-This dataset is used in the paper "Space Exploration and Economic Growth: New Issues and Horizons". The final dataset can also be downloaded from the replication files for that paper:
+## Relation to other replication materials
 
-This is a "living" version of the official repository and should not be cited. If you want to cite the code or data associated with this project, please reference the official repository.
-
+This dataset is used in the paper "Space Exploration and Economic Growth: New Issues and Horizons". The final dataset can also be downloaded from the replication files for that paper: https://doi.org/10.57968/Middlebury.23992431.v1 . The MIR code and datasets will recreate the same dataset used in that paper. This is a "living" version of the project to track launch prices and will continue to be updated.
 
 ## Repository Structure
 
